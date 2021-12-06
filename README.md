@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Fikri Ardi form Indonesia
+- 👋 Hi, I’m Muhammad Fikri Ardi from Indonesia
 - 👀 I’m a full-stack developer
 - 🌱 I’m currently learning and will never stop to learn
 - 📫 You can contact me at muhammadfikriardi@gmail.com
